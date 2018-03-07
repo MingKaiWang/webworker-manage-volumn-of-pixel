@@ -1,0 +1,23 @@
+{
+  "name": "webworker-manage-volumn-of-pixel",
+  "version": "1.0.0",
+  "description": "webworker 对像素体数据的管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MingKaiWang/webworker-manage-volumn-of-pixel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MingKaiWang/webworker-manage-volumn-of-pixel/issues"
+  },
+  "homepage": "https://github.com/MingKaiWang/webworker-manage-volumn-of-pixel#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
